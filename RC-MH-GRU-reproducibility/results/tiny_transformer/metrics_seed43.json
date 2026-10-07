@@ -1,0 +1,46 @@
+[
+  {
+    "method": "Tiny Transformer",
+    "seed": 43,
+    "horizon_ms": 100,
+    "mean_deg": 1.0187429189682007,
+    "median_deg": 0.53595370054245,
+    "rmse_deg": 1.8146238327026367,
+    "p90_deg": 2.361046552658081,
+    "best_validation_all_horizons_deg": 2.784515142440796,
+    "n_parameters": 14412
+  },
+  {
+    "method": "Tiny Transformer",
+    "seed": 43,
+    "horizon_ms": 200,
+    "mean_deg": 2.0854852199554443,
+    "median_deg": 1.0439897775650024,
+    "rmse_deg": 3.633674383163452,
+    "p90_deg": 5.043269157409668,
+    "best_validation_all_horizons_deg": 2.784515142440796,
+    "n_parameters": 14412
+  },
+  {
+    "method": "Tiny Transformer",
+    "seed": 43,
+    "horizon_ms": 300,
+    "mean_deg": 3.373668909072876,
+    "median_deg": 1.6554032564163208,
+    "rmse_deg": 5.85203218460083,
+    "p90_deg": 8.365276336669922,
+    "best_validation_all_horizons_deg": 2.784515142440796,
+    "n_parameters": 14412
+  },
+  {
+    "method": "Tiny Transformer",
+    "seed": 43,
+    "horizon_ms": 500,
+    "mean_deg": 6.1249613761901855,
+    "median_deg": 3.009538173675537,
+    "rmse_deg": 10.3652925491333,
+    "p90_deg": 15.421006202697754,
+    "best_validation_all_horizons_deg": 2.784515142440796,
+    "n_parameters": 14412
+  }
+]

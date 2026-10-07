@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Jika kode atau hasil ini digunakan, sitasi artikel dan repositori ini."
+title: "RC-MH-GRU untuk Prediksi Arah Pandang 360° pada Telepresensi Robot"
+type: software
+version: 1.0.0
+date-released: 2026-10-07
+authors:
+  - family-names: Iskandar
+    given-names: Abdullah
+  - family-names: Safitri
+    given-names: Pima Hani
+  - family-names: Husen
+    given-names: Jati Hiliamsyah
+  - family-names: Arifin
+    given-names: Muhammad
+repository-code: "ISI_TAUTAN_GITHUB"

@@ -1,0 +1,4 @@
+split,n_videos,n_sessions,n_windows_generated,n_windows_saved
+train,50,2065,1071142,200000
+val,11,432,248932,40000
+test,11,489,282468,60000

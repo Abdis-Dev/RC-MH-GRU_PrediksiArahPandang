@@ -1,0 +1,2 @@
+method,batch_size,n_calls,median_us_call,p95_us_call,p99_us_call,n_parameters,hardware
+Tiny Transformer,1,3000,69.5,71.71309999999998,80.00457999999989,14412,"Apple M3 8-core, 16 GB; PyTorch CPU one thread"
